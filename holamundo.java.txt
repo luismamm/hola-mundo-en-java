@@ -1,6 +1,8 @@
 /*Mi primer comentario */
 public class Mundo{
 	public static void main (String[] args){
+		String Nombre = "Rafa";
+		String Apellido = "Delgado";
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
 	}
